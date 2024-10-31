@@ -1,0 +1,8 @@
+torch
+transformers
+numpy
+requests
+beautifulsoup4
+PyMuPDF
+sentencepiece
+accelerate
